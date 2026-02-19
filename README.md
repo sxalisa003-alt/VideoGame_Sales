@@ -1,6 +1,7 @@
 # Video Game Sales Analysis Dashboard - Excel BI Project
 
 Overview
+
 This project explores global and regional video game sales trends using Microsoft Excel as a BI tool. The goal of this project is to transform raw sales data into a clean, structured, interactive dashboard that reveals insights on genre popularity, platform market performance, publisher influence, regional market behaviour.
 The analysis focuses on trends across multiple years, highlighting how sales patterns evolve overtime and differ across regions.
 
@@ -20,7 +21,41 @@ Tool & Skills Used
 4. Pivot Tables & Pivot Charts
 5. Data Visualization
 6. Business Analysis
-   
 
+Data Preparation
+1. Deleted 26 rows with blanks from the columns Platform to Global_Sales
+2. Replaced '.' to ';' for all sales columns
+3.  The original data set contained separate columns for regional sales(NA_Sales, EU_Sales, JP_Sales, and Other_Sales). To enable flexible analysis and dynamic filtering the dataset was unpivoted into a normalized structure thus giving us a new table were the regional columns were transformed into a Region category with a unified Sales column. This approach allowed slicers and pivot tables to function consistently across all visuals.
+
+   
+Dashboard and Dataset
+
+Dataset Structure
+
+
+Dashboard Components
+ This dashboard includes:
+ 1. KPI Cards: Total Sales
+               Top Genre
+               Top Platform
+               Top Publisher
+ 2. Top 5 Genres (Global performance over a decade)
+ 3. Platform Performance Analysis
+ 4. Publisher Market Share (%)
+ 5. Regional Sales Distribution
+ 6. Platform Lifecycle Trends
+ 7. Interactive slicers by Region, Genre, Publisher, Platform
+
+
+
+
+Key Insights
+
+
+
+Contraints
+
+
+\
 
 
