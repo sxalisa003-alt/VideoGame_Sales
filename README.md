@@ -32,6 +32,7 @@ The dashboard is designed to answer the following analytical questions:
 
 ### Dataset Structure
 
+![VideoGamesSales_DatasetDescription](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/ac2c221c6f130e18ae0864059b12406813b49c80/images/VGSales%20DatasetDescrp%202026-02-22.png)
 
 
 ### Dashboard
