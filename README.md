@@ -38,7 +38,7 @@ The dashboard is designed to answer the following analytical questions:
 ### Dashboard
 
 
-![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/21797c909ea7765930417d1d5dc101206c460ca7/images/VideoGameSales_2026-02-22_FullDash.png)
+![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/31171f428b698c659e3a1f493cbbf1f94544a66e/images/VGSalesDas_2026-02-22.png)
  This dashboard includes:
  1. KPI Cards
     * Total Sales
