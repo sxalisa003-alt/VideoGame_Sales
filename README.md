@@ -57,6 +57,10 @@ The dashboard is designed to answer the following analytical questions:
 
 ### Key Insights
 
+#### Top 10 Genres from 2009-2020 
+
+
+
 
 ## Conclusion, Recomendations and Constraints
 
