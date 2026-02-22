@@ -1,11 +1,11 @@
 # Video Game Sales Analysis Dashboard - Excel BI Project
 
-Overview
+### Overview
 
 This project explores global and regional video game sales trends using Microsoft Excel as a BI tool. The goal of this project is to transform raw sales data into a clean, structured, interactive dashboard that reveals insights on genre popularity, platform market performance, publisher influence, regional market behaviour.
 The analysis focuses on trends across multiple years, highlighting how sales patterns evolve overtime and differ across regions.
 
-Project Objectives 
+### Project Objectives 
 
 The dashboard is designed to answer the following analytical questions:
 1. What were the top 5 performing Genres and Platforms between the years 2009 and 2020?
@@ -14,7 +14,7 @@ The dashboard is designed to answer the following analytical questions:
 4. How do regional sales pattern differ by genre and platform?
 5. What trends exist in platform lifecycle and market share?
 
-Tool & Skills Used
+### Tool & Skills Used
 1. Microsoft Excel
 2. Data Cleaning & Transformation
 3. Data Normalization (Unpivoting)
@@ -22,18 +22,18 @@ Tool & Skills Used
 5. Data Visualization
 6. Business Analysis
 
-Data Preparation
+### Data Preparation
 1. Deleted 26 rows with blanks from the columns Platform to Global_Sales
 2. Replaced '.' to ';' for all sales columns
 3.  The original data set contained separate columns for regional sales(NA_Sales, EU_Sales, JP_Sales, and Other_Sales). To enable flexible analysis and dynamic filtering the dataset was unpivoted into a normalized structure thus giving us a new table were the regional columns were transformed into a Region category with a unified Sales column. This approach allowed slicers and pivot tables to function consistently across all visuals.
 
    
-Dashboard and Dataset
+### Dashboard and Dataset
 
-Dataset Structure
+### Dataset Structure
 
 
-Dashboard Components
+###Dashboard Components
 ![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/21797c909ea7765930417d1d5dc101206c460ca7/images/VideoGameSales_2026-02-22_FullDash.png)
  This dashboard includes:
  1. KPI Cards: Total Sales
@@ -50,13 +50,13 @@ Dashboard Components
 
 
 
-Key Insights
+### Key Insights
 
 
 
-Contraints
+### Contraints
 
 
-\
+
 
 
