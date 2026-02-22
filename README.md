@@ -34,7 +34,7 @@ Dataset Structure
 
 
 Dashboard Components
-![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/f5726239a3d3ba3634e2ecdb64c9422a624600f6/VideoGameSales_2026-02-22_FullDash.png)
+![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/21797c909ea7765930417d1d5dc101206c460ca7/images/VideoGameSales_2026-02-22_FullDash.png)
  This dashboard includes:
  1. KPI Cards: Total Sales
                Top Genre
