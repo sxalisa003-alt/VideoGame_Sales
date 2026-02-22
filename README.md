@@ -28,7 +28,7 @@ The dashboard is designed to answer the following analytical questions:
 3.  The original data set contained separate columns for regional sales(NA_Sales, EU_Sales, JP_Sales, and Other_Sales). To enable flexible analysis and dynamic filtering the dataset was unpivoted into a normalized structure thus giving us a new table were the regional columns were transformed into a Region category with a unified Sales column. This approach allowed slicers and pivot tables to function consistently across all visuals.
 
    
-### Dashboard and Dataset
+## Dashboard and Dataset
 
 ### Dataset Structure
 
@@ -58,6 +58,7 @@ The dashboard is designed to answer the following analytical questions:
 ### Key Insights
 
 
+## Conclusion, Recomendations and Constraints
 
 ### Contraints
 
