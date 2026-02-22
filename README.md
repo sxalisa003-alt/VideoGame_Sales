@@ -15,12 +15,12 @@ The dashboard is designed to answer the following analytical questions:
 5. What trends exist in platform lifecycle and market share?
 
 ### Tool & Skills Used
-1. Microsoft Excel
-2. Data Cleaning & Transformation
-3. Data Normalization (Unpivoting)
-4. Pivot Tables & Pivot Charts
-5. Data Visualization
-6. Business Analysis
+* Microsoft Excel
+* Data Cleaning & Transformation
+* Data Normalization (Unpivoting)
+* Pivot Tables & Pivot Charts
+* Data Visualization
+* Business Analysis
 
 ### Data Preparation
 1. Deleted 26 rows with blanks from the columns Platform to Global_Sales
@@ -39,16 +39,17 @@ The dashboard is designed to answer the following analytical questions:
 
 ![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/21797c909ea7765930417d1d5dc101206c460ca7/images/VideoGameSales_2026-02-22_FullDash.png)
  This dashboard includes:
- 1. KPI Cards: Total Sales
-               Top Genre
-               Top Platform
-               Top Publisher
- 2. Top 5 Genres (Global performance over a decade)
- 3. Platform Performance Analysis
- 4. Publisher Market Share (%)
- 5. Regional Sales Distribution
- 6. Platform Lifecycle Trends
- 7. Interactive slicers by Region, Genre, Publisher, Platform
+ 1. KPI Cards
+    * Total Sales
+    * Top Genre
+    * Top Platform
+    * Top Publisher
+ 3. Top 5 Genres (Global performance over a decade)
+ 4. Platform Performance Analysis
+ 5. Publisher Market Share (%)
+ 6. Regional Sales Distribution
+ 7. Platform Lifecycle Trends
+ 8. Interactive slicers by Region, Genre, Publisher, Platform
 
 
 
