@@ -33,7 +33,10 @@ The dashboard is designed to answer the following analytical questions:
 ### Dataset Structure
 
 
-###Dashboard Components
+
+### Dashboard
+
+
 ![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/21797c909ea7765930417d1d5dc101206c460ca7/images/VideoGameSales_2026-02-22_FullDash.png)
  This dashboard includes:
  1. KPI Cards: Total Sales
