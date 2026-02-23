@@ -125,6 +125,7 @@ The PS2 emerges as the best-performing platform, recording the highest total glo
 The dominance of the PS2 is further reinforced by its leading market share (~14%), indicating its significant impact on overall industry sales. Its dominance also reflects an earlier era of gaming where fewer competing platforms existed, enabling it to capture a larger share of the market compared to newer, more fragmented console generations.
 
 ### Regional Platform Preference
+![RegionalPlatformPreference](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/1769a1e546548d80ccfc64c98345446364a6f1ba/images/RegionalPlatformPreference.png)
 Regional differences in platform performance highlight distinct market dynamics across the gaming industry.
 
 * North America (NA) shows strong performance across multiple platforms, including PS2, Xbox 360, PS3, Wii, DS, and Xbox, indicating a diverse and highly competitive market with broad platform adoption.
