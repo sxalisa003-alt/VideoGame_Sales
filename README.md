@@ -22,11 +22,25 @@ The dashboard is designed to answer the following analytical questions:
 * Data Visualization
 * Business Analysis
 
-### Data Preparation
-1. Deleted 26 rows with blanks from the columns Platform to Global_Sales
-2. Replaced '.' to ';' for all sales columns
-3.  The original data set contained separate columns for regional sales(NA_Sales, EU_Sales, JP_Sales, and Other_Sales). To enable flexible analysis and dynamic filtering the dataset was unpivoted into a normalized structure thus giving us a new table were the regional columns were transformed into a Region category with a unified Sales column. This approach allowed slicers and pivot tables to function consistently across all visuals.
+### Data Cleaning and Constraints
+The dataset required preprocessing due to missing values, inconsistencies, and structural limitations.
 
+##### Data Transformation:
+ The original dataset structure was modified to support analysis. The data was unpivoted to convert wide-format sales columns into a long format, enabling easier aggregation, filtering, and visualization across regions and time.
+Additionally, sales values were standardized by replacing "." with "," to ensure correct decimal formatting and numeric interpretation.
+
+##### Handling Missing Data:
+ Rows with extensive missing values (9 out of 11 fields, including Platform and Global Sales) were removed (26 records) to maintain data integrity.
+Additionally, 271 records (~1.6%) contained missing year values. These were excluded from time-series analysis but retained where year was not required.
+
+##### Data Quality Considerations:
+  Some inconsistencies and anomalies were present in the dataset, which may affect absolute accuracy but do not significantly impact overall trends and patterns.
+
+##### Aggregation Decisions:
+ Due to a large number of publishers, analysis was limited to the top 10 publishers by sales. This reduces noise and improves interpretability while still capturing the majority of market activity.
+
+##### Precision Handling:
+  Extremely small percentage values (e.g., in average sales per game) were rounded to improve readability in visualizations without affecting overall insights.
    
 ## Dashboard and Dataset
 
