@@ -46,7 +46,7 @@ Additionally, 271 records (1.6%) contained missing year values. These were exclu
 
 ##### Dataset Structure
 
-![VideoGamesSales_DatasetDescription](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/ac2c221c6f130e18ae0864059b12406813b49c80/images/VGSales%20DatasetDescrp%202026-02-22.png)
+![VideoGamesSales_DatasetDescription](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/ae8a09a19efd586a918f8797f63b1cb9320ce802/images/DatasetDescription.png)
 
 
 ##### Dashboard
