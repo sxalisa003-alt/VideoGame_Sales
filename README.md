@@ -132,8 +132,50 @@ These differences suggest that global platform strategies cannot be standardized
 
 North America and Europe exhibit high platform diversity, while Japan shows platform specialization, and Other regions reflect limited market penetration and platform spread.
 
-### Platform Lifecycle
+### Platform Lifecycle Analysis by Decade
 
+##### 1980–1989: Market Emergence & Early Dominance
+The early 1980s show a highly concentrated market, with the Atari 2600 dominating from 1980–1982 as the only consistently recorded platform in the dataset.
+A major shift occurs in 1983 with the entry of the NES, which rapidly scales from 10.96M to 50.08M in its second year. From 1983–1988, NES maintains clear dominance, signaling a transition toward more advanced console technology and stronger market adoption.
+
+In 1988–1989, the Game Boy (GB) enters and quickly disrupts the market, surging from 1.43M to 64.97M. This coincides with a decline in NES sales, suggesting a consumer shift toward handheld gaming rather than a failure of the NES itself.
+
+The sharp drop in GB sales in 1990 is observed, but no causal claim can be confirmed from the dataset. This fluctuation likely reflects early-stage volatility common in emerging platforms.
+
+##### 1990–1999: Competitive Expansion & Console Wars
+The 1990s introduce direct platform competition and overlapping lifecycles.
+SNES dominates from 1990–1994, benefiting from being a next-generation successor to NES. However, the entry of PlayStation (PS) in 1994 marks a major disruption. Within two years, PS scales aggressively, reaching 94.7M by 1996 and peaking at 136.17M in 1997—the highest annual platform sales observed.
+Nintendo responds with the N64 in 1996, which shows steady but comparatively lower growth. Meanwhile, GB demonstrates intermittent recovery, indicating sustained relevance in the handheld segment.
+
+From 1994 onward, PS establishes dominance, signaling a shift toward Sony’s entry reshaping the competitive landscape.
+
+##### 2000–2009: Transition Cycles & Multi-Platform Competition
+This decade is defined by rapid platform turnover and overlapping generations.
+
+The launch of PS2 in 2000 creates a transition effect, where earlier PS sales decline as users migrate to the new system. PS2 goes on to dominate from 2001–2005, becoming the central platform of the era.
+Simultaneously:
+* GBA (2000–2005) shows fluctuating performance before declining
+* GameCube (2001–2007) has a shorter lifecycle with moderate adoption
+* DS (2004 onward) shows strong, sustained growth, eventually overtaking PS2
+  
+By the late 2000s:
+* PS3 (2006) and X360 enter into direct competition
+* The market becomes highly fragmented, with no single platform maintaining long-term dominance
+
+PC shows gradual, stable growth across the decade, indicating a less volatile but consistent segment.
+
+##### 2010–2020: Maturity, Saturation & Decline
+The final decade reflects a maturing market with overall declining sales across most platforms.
+
+Key transitions include:
+* The shift from PS3 to PS4 around 2013
+* The introduction of 3DS (2011), which starts strong (62.28M) but declines steadily
+* PSV (2011) showing limited market impact compared to competitors
+
+X360, DS, and PlayStation platforms remain in close competition during the early 2010s, but all exhibit declining trends over time.
+Newer platforms such as XOne and later Xbox variants enter the market but fail to sustain long-term growth within the dataset.
+
+Overall, this period suggests market saturation and reduced growth momentum, with shorter platform lifecycles and diminishing peak sales.
 
 ## Conclusion, Recomendations and Constraints
 
