@@ -119,7 +119,8 @@ This indicates a highly concentrated market, where a small number of major publi
 The remaining market share is distributed among other leading publishers, suggesting competitive participation but with no single publisher matching Nintendo’s overall influence.
 
 ### Top 10 Publisher Average saler per game
-![Top10PublisherAVG]()
+![Top10PublisherAVG](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/cfa5a535c32638e09380d17425d6338548f652a6/images/avgSalegame.png)
+
 Nintendo leads in average sales per game at approximately 0.64 million units per title, reinforcing its strong performance not just in total volume, but also in per-game efficiency.
 
 A key insight emerges when comparing Publisher Market Share with Average Sales per Game:
@@ -143,7 +144,7 @@ This suggests that global sales performance is heavily influenced by North Ameri
 #### Platform Preference 
 
 ### Top 5 Best Selling Platforms (Global)
-
+![Top5Platform]()
 PS3 is the most consistently dominant platform, with strong competition from Wii, Xbox 360, and PS4 depending on the year.
 The PlayStation ecosystem demonstrates a strong and sustained presence in the market, with PS3 emerging as the overall dominant platform across the observed period.
 However, platform leadership varies significantly year-to-year, indicating a highly competitive and dynamic market:
