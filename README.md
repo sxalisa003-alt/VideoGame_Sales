@@ -52,7 +52,7 @@ Additionally, 271 records (1.6%) contained missing year values. These were exclu
 ##### Dashboard
 
 
-![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/cd06bbcc06782940c15507bbeb57ff891b90354c/images/Dashboard_VideoGameSales.png)
+![VideoGameSales Dashboard]()
 
  This dashboard includes:
  1. KPI Cards
@@ -85,7 +85,7 @@ Additionally, 271 records (1.6%) contained missing year values. These were exclu
 #### Genre Performance
 
 ##### Top 10 Genres from 2009-2020 
-![Top10Genre](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/c7f65e43f77b96ab3a5d3fb08542b1f66d066dd4/images/top10genre.png)
+![Top10Genre]()
 
 Action is the leading genre, accounting for the largest share of sales over the observed period.
 However the sales trend exhibited by Action reveals a clear lifecyle pattern. 
@@ -94,7 +94,7 @@ A synchronized decline pattern is observed across multiple genres, suggesting th
 
 ##### Regional Genre Preference in %
 
-![RegionalGenrePreference%](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/bde3793788a5cd1f541d4fc0f11132830593ce8e/images/RegionalGenPref.png)
+![RegionalGenrePreference%]()
 
 Clear regional differences emerge in genre preferences:
 * Japan shows a strong preference for Role-Playing games, distinguishing it from other region
@@ -107,7 +107,7 @@ These patterns indicate that while some genres (such as Action) have universal a
 
 ##### Publisher Market share
 
-![PublisherMarketShare%](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/0d4fd8922d30500b2a391abefeb51ce53957e2bb/images/PubMarShare.png)
+![PublisherMarketShare%]()
 
 ###### DISCLAIMER: To maintain clarity and avoid fragmentation, the analysis focuses on the top 10 publishers, as the full dataset contains a large number of low-contributing publishers that would obscure meaningful patterns.
 
@@ -118,7 +118,7 @@ The remaining market share is distributed among other leading publishers, sugges
 
 ##### Top 10 Publisher Average saler per game
 
-![Top10PublisherAVG](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/cfa5a535c32638e09380d17425d6338548f652a6/images/avgSalegame.png)
+![Top10PublisherAVG]()
 
 Nintendo leads in average sales per game at approximately 0.64 million units per title, reinforcing its strong performance not just in total volume, but also in per-game efficiency.
 
@@ -134,7 +134,7 @@ This contrast highlights two distinct publisher strategies:
 
 ##### Regional Share Overtime
 
-![RegionalShareOvertime](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/5ef1d9bb2cc9c6a8e49b0fd67c68b0916143e7f6/images/RegonalMarketShareOverrttime.png)
+![RegionalShareOvertime]()
 
 North America consistently holds the largest share of global video game sales at approximately 49.28%, making it the most significant market in the dataset.
 While no extreme fluctuations are observed over time, the distribution highlights a stable regional hierarchy, where North America leads, followed by Europe and Japan, with other regions contributing a smaller but distinct share.
@@ -144,7 +144,7 @@ This suggests that global sales performance is heavily influenced by North Ameri
 
 ##### Top 5 Best Selling Platforms (Global)
 
-![Top5Platform](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/cfa5a535c32638e09380d17425d6338548f652a6/images/avgSalegame.png)
+![Top5Platform]()
 
 PS3 is the most consistently dominant platform, with strong competition from Wii, Xbox 360, and PS4 depending on the year.
 The PlayStation ecosystem demonstrates a strong and sustained presence in the market, with PS3 emerging as the overall dominant platform across the observed period.
@@ -167,7 +167,7 @@ Interestingly, PS3 continues to perform strongly even after the release of PS4, 
 
 ##### Regional Platform Preference
 
-![RegionalPlatformPreference](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/1769a1e546548d80ccfc64c98345446364a6f1ba/images/RegionalPlatformPreference.png)
+![RegionalPlatformPreference]()
 
 Regional differences in platform performance highlight distinct market dynamics across the gaming industry.
 
@@ -181,7 +181,7 @@ North America and Europe exhibit high platform diversity, while Japan shows plat
 
 ##### Platform Lifecycle Analysis by Decade
 
-![PlatformLifecyclewe1980-2020](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/869d222c7b861aab838593b96237d76273e6ff7b/images/PlatformLifecycle.png)
+![PlatformLifecyclewe1980-2020]()
 
 ###### 1980–1989: Market Emergence & Early Dominance
 The early 1980s show a highly concentrated market, with the Atari 2600 dominating from 1980–1982 as the only consistently recorded platform in the dataset.
