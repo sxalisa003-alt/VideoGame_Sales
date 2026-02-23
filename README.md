@@ -54,19 +54,6 @@ Additionally, 271 records (1.6%) contained missing year values. These were exclu
 
 ![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/220e6534b4fbfcd634957f0f815ca006057e3908/images/Dashboard.png)
 
- This dashboard includes:
- 1. KPI Cards
-    * Total Sales
-    * Top Genre
-    * Top Platform
-    * Top Publisher
- 3. Top 5 Genres (Global performance over a decade)
- 4. Platform Performance Analysis
- 5. Publisher Market Share (%)
- 6. Regional Sales Distribution
- 7. Platform Lifecycle Trends
- 8. Interactive slicers by Region, Genre, Publisher, Platform
-
 
 ## Key Insights
 
@@ -77,7 +64,7 @@ Additionally, 271 records (1.6%) contained missing year values. These were exclu
 * Platform Trends: Strong generational transitions drive performance (especially PlayStation)
 * Publisher Impact: Nintendo leads in both market share and efficiency
 * Regional Patterns:
-   * NA = largest market (~49%)
+   * NA = largest market (49%)
    * JP = RPG preference
    * EU/NA = Action & Sports dominance
 
