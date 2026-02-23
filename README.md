@@ -111,6 +111,7 @@ While no extreme fluctuations are observed over time, the distribution highlight
 This suggests that global sales performance is heavily influenced by North American demand, making it a critical region for commercial success. 
 
 ### Regional Genre Preference in %
+![RegionalGenrePreference%](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/bde3793788a5cd1f541d4fc0f11132830593ce8e/images/RegionalGenPref.png)
 Clear regional differences emerge in genre preferences:
 * Japan shows a strong preference for Role-Playing games, distinguishing it from other region
 * North America favors Action and Sports, while still maintaining a relatively balanced distribution across other genres
