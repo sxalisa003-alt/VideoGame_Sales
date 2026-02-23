@@ -39,6 +39,7 @@ The dashboard is designed to answer the following analytical questions:
 
 
 ![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/cd06bbcc06782940c15507bbeb57ff891b90354c/images/Dashboard_VideoGameSales.png)
+
  This dashboard includes:
  1. KPI Cards
     * Total Sales
@@ -87,8 +88,8 @@ Interestingly, PS3 continues to perform strongly even after the release of PS4, 
 ### Publisher Market share
 
 ![PublisherMarketShare%](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/0d4fd8922d30500b2a391abefeb51ce53957e2bb/images/PubMarShare.png)
-##### DISCLAIMER 
-To maintain clarity and avoid fragmentation, the analysis focuses on the top 10 publishers, as the full dataset contains a large number of low-contributing publishers that would obscure meaningful patterns.
+
+##### DISCLAIMER: To maintain clarity and avoid fragmentation, the analysis focuses on the top 10 publishers, as the full dataset contains a large number of low-contributing publishers that would obscure meaningful patterns.
 
 Nintendo holds the largest market share at approximately 24%, making it the dominant publisher over the observed period. This indicates a highly concentrated market, where a small number of major publishers account for a significant portion of total sales. Nintendo’s dominance is particularly notable given its strong performance across multiple regions and platforms.
 
@@ -106,13 +107,17 @@ This contrast highlights two distinct publisher strategies:
 * High-efficiency strategy: fewer releases, higher impact per game
 
 ### Regional Share Overtime
+
 ![RegionalShareOvertime](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/5ef1d9bb2cc9c6a8e49b0fd67c68b0916143e7f6/images/RegonalMarketShareOverrttime.png)
+
 North America consistently holds the largest share of global video game sales at approximately 49.28%, making it the most significant market in the dataset.
 While no extreme fluctuations are observed over time, the distribution highlights a stable regional hierarchy, where North America leads, followed by Europe and Japan, with other regions contributing a smaller but distinct share.
 This suggests that global sales performance is heavily influenced by North American demand, making it a critical region for commercial success. 
 
 ### Regional Genre Preference in %
+
 ![RegionalGenrePreference%](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/bde3793788a5cd1f541d4fc0f11132830593ce8e/images/RegionalGenPref.png)
+
 Clear regional differences emerge in genre preferences:
 * Japan shows a strong preference for Role-Playing games, distinguishing it from other region
 * North America favors Action and Sports, while still maintaining a relatively balanced distribution across other genres
@@ -126,7 +131,9 @@ The PS2 emerges as the best-performing platform, recording the highest total glo
 The dominance of the PS2 is further reinforced by its leading market share (~14%), indicating its significant impact on overall industry sales. Its dominance also reflects an earlier era of gaming where fewer competing platforms existed, enabling it to capture a larger share of the market compared to newer, more fragmented console generations.
 
 ### Regional Platform Preference
+
 ![RegionalPlatformPreference](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/1769a1e546548d80ccfc64c98345446364a6f1ba/images/RegionalPlatformPreference.png)
+
 Regional differences in platform performance highlight distinct market dynamics across the gaming industry.
 
 * North America (NA) shows strong performance across multiple platforms, including PS2, Xbox 360, PS3, Wii, DS, and Xbox, indicating a diverse and highly competitive market with broad platform adoption.
