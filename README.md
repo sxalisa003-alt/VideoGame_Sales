@@ -106,6 +106,7 @@ This contrast highlights two distinct publisher strategies:
 * High-efficiency strategy: fewer releases, higher impact per game
 
 ### Regional Share Overtime
+![RegionalShareOvertime](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/5ef1d9bb2cc9c6a8e49b0fd67c68b0916143e7f6/images/RegonalMarketShareOverrttime.png)
 North America consistently holds the largest share of global video game sales at approximately 49.28%, making it the most significant market in the dataset.
 While no extreme fluctuations are observed over time, the distribution highlights a stable regional hierarchy, where North America leads, followed by Europe and Japan, with other regions contributing a smaller but distinct share.
 This suggests that global sales performance is heavily influenced by North American demand, making it a critical region for commercial success. 
