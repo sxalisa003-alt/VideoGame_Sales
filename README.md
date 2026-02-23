@@ -25,31 +25,31 @@ The dashboard is designed to answer the following analytical questions:
 ### Data Cleaning and Constraints
 The dataset required preprocessing due to missing values, inconsistencies, and structural limitations.
 
-##### Data Transformation:
+##### Data Transformation
  The original dataset structure was modified to support analysis. The data was unpivoted to convert wide-format sales columns into a long format, enabling easier aggregation, filtering, and visualization across regions and time.
 Additionally, sales values were standardized by replacing "." with "," to ensure correct decimal formatting and numeric interpretation.
 
-##### Handling Missing Data:
+##### Handling Missing Data
  Rows with extensive missing values (9 out of 11 fields, including Platform and Global Sales) were removed (26 records) to maintain data integrity.
 Additionally, 271 records (1.6%) contained missing year values. These were excluded from time-series analysis but retained where year was not required.
 
-##### Data Quality Considerations:
+##### Data Quality Considerations
   Some inconsistencies and anomalies were present in the dataset, which may affect absolute accuracy but do not significantly impact overall trends and patterns.
 
-##### Aggregation Decisions:
+##### Aggregation Decisions
  Due to a large number of publishers, analysis was limited to the top 10 publishers by sales. This reduces noise and improves interpretability while still capturing the majority of market activity.
 
-##### Precision Handling:
+##### Precision Handling
   Extremely small percentage values (e.g., in average sales per game) were rounded to improve readability in visualizations without affecting overall insights.
    
 ## Dashboard and Dataset
 
-### Dataset Structure
+##### Dataset Structure
 
 ![VideoGamesSales_DatasetDescription](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/ac2c221c6f130e18ae0864059b12406813b49c80/images/VGSales%20DatasetDescrp%202026-02-22.png)
 
 
-### Dashboard
+##### Dashboard
 
 
 ![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/cd06bbcc06782940c15507bbeb57ff891b90354c/images/Dashboard_VideoGameSales.png)
@@ -68,25 +68,23 @@ Additionally, 271 records (1.6%) contained missing year values. These were exclu
  8. Interactive slicers by Region, Genre, Publisher, Platform
 
 
-
-
-### Key Insights
+## Key Insights
 
 #### Key Insights Summary
-** Top Genre: Action dominates globally but follows a lifecycle decline post-2014
-** Top Platforms: PS3 leads overall; Wii, X360, and PS4 dominate specific years
-** Platform Trends: Strong generational transitions drive performance (especially PlayStation)
-** Publisher Impact: Nintendo leads in both market share and efficiency
-** Regional Patterns:
+
+* Top Genre: Action dominates globally but follows a lifecycle decline post-2014
+* Top Platforms: PS3 leads overall; Wii, X360, and PS4 dominate specific years
+* Platform Trends: Strong generational transitions drive performance (especially PlayStation)
+* Publisher Impact: Nintendo leads in both market share and efficiency
+* Regional Patterns:
    * NA = largest market (~49%)
    * JP = RPG preference
    * EU/NA = Action & Sports dominance
 
 
-
 #### Genre Performance
 
-#### Top 10 Genres from 2009-2020 
+##### Top 10 Genres from 2009-2020 
 ![Top10Genre](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/c7f65e43f77b96ab3a5d3fb08542b1f66d066dd4/images/top10genre.png)
 
 Action is the leading genre, accounting for the largest share of sales over the observed period.
@@ -94,7 +92,7 @@ However the sales trend exhibited by Action reveals a clear lifecyle pattern.
 Sales show early volatility between 2009 and 2011, followed by a recovery and peak phase between 2011 and 2013, where sales increase steadily. From 2014 onwards  sales enter  a sustained decline. This trend is likely influenced by console lifecycle dynamics, where declining late-stage console adoption and anticipation of new platform releases reduce consumer spending on existing-generation titles. As new consoles are introduced, both developers and consumers shift focus, contributing to the observed decline in sales.
 A synchronized decline pattern is observed across multiple genres, suggesting that this is an industry-wide trend rather than a genre-specific shift.
 
-### Regional Genre Preference in %
+##### Regional Genre Preference in %
 
 ![RegionalGenrePreference%](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/bde3793788a5cd1f541d4fc0f11132830593ce8e/images/RegionalGenPref.png)
 
@@ -107,18 +105,19 @@ These patterns indicate that while some genres (such as Action) have universal a
 
 #### Publisher Impact
 
-### Publisher Market share
+##### Publisher Market share
 
 ![PublisherMarketShare%](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/0d4fd8922d30500b2a391abefeb51ce53957e2bb/images/PubMarShare.png)
 
-##### DISCLAIMER: To maintain clarity and avoid fragmentation, the analysis focuses on the top 10 publishers, as the full dataset contains a large number of low-contributing publishers that would obscure meaningful patterns.
+###### DISCLAIMER: To maintain clarity and avoid fragmentation, the analysis focuses on the top 10 publishers, as the full dataset contains a large number of low-contributing publishers that would obscure meaningful patterns.
 
 Nintendo holds the largest market share at approximately 24%, making it the dominant publisher over the observed period.
 This indicates a highly concentrated market, where a small number of major publishers account for a significant portion of total sales. Nintendo’s dominance is particularly notable given its strong performance across multiple regions and platforms.
 
 The remaining market share is distributed among other leading publishers, suggesting competitive participation but with no single publisher matching Nintendo’s overall influence.
 
-### Top 10 Publisher Average saler per game
+##### Top 10 Publisher Average saler per game
+
 ![Top10PublisherAVG](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/cfa5a535c32638e09380d17425d6338548f652a6/images/avgSalegame.png)
 
 Nintendo leads in average sales per game at approximately 0.64 million units per title, reinforcing its strong performance not just in total volume, but also in per-game efficiency.
@@ -133,7 +132,7 @@ This contrast highlights two distinct publisher strategies:
 
 #### Regional Dynamics
 
-### Regional Share Overtime
+##### Regional Share Overtime
 
 ![RegionalShareOvertime](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/5ef1d9bb2cc9c6a8e49b0fd67c68b0916143e7f6/images/RegonalMarketShareOverrttime.png)
 
@@ -143,8 +142,10 @@ This suggests that global sales performance is heavily influenced by North Ameri
 
 #### Platform Preference 
 
-### Top 5 Best Selling Platforms (Global)
-![Top5Platform]()
+##### Top 5 Best Selling Platforms (Global)
+
+![Top5Platform](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/cfa5a535c32638e09380d17425d6338548f652a6/images/avgSalegame.png)
+
 PS3 is the most consistently dominant platform, with strong competition from Wii, Xbox 360, and PS4 depending on the year.
 The PlayStation ecosystem demonstrates a strong and sustained presence in the market, with PS3 emerging as the overall dominant platform across the observed period.
 However, platform leadership varies significantly year-to-year, indicating a highly competitive and dynamic market:
@@ -164,7 +165,7 @@ Interestingly, PS3 continues to perform strongly even after the release of PS4, 
 * Continued game releases and pricing strategies for older platforms
 
 
-### Regional Platform Preference
+##### Regional Platform Preference
 
 ![RegionalPlatformPreference](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/1769a1e546548d80ccfc64c98345446364a6f1ba/images/RegionalPlatformPreference.png)
 
@@ -178,11 +179,11 @@ These differences suggest that global platform strategies cannot be standardized
 
 North America and Europe exhibit high platform diversity, while Japan shows platform specialization, and Other regions reflect limited market penetration and platform spread.
 
-### Platform Lifecycle Analysis by Decade
+##### Platform Lifecycle Analysis by Decade
 
 ![PlatformLifecyclewe1980-2020](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/869d222c7b861aab838593b96237d76273e6ff7b/images/PlatformLifecycle.png)
 
-##### 1980–1989: Market Emergence & Early Dominance
+###### 1980–1989: Market Emergence & Early Dominance
 The early 1980s show a highly concentrated market, with the Atari 2600 dominating from 1980–1982 as the only consistently recorded platform in the dataset.
 A major shift occurs in 1983 with the entry of the NES, which rapidly scales from 10.96M to 50.08M in its second year. From 1983–1988, NES maintains clear dominance, signaling a transition toward more advanced console technology and stronger market adoption.
 
@@ -197,7 +198,7 @@ Nintendo responds with the N64 in 1996, which shows steady but comparatively low
 
 From 1994 onward, PS establishes dominance, signaling a shift toward Sony’s entry reshaping the competitive landscape.
 
-##### 2000–2009: Transition Cycles & Multi-Platform Competition
+###### 2000–2009: Transition Cycles & Multi-Platform Competition
 This decade is defined by rapid platform turnover and overlapping generations.
 
 The launch of PS2 in 2000 creates a transition effect, where earlier PS sales decline as users migrate to the new system. PS2 goes on to dominate from 2001–2005, becoming the central platform of the era.
@@ -212,7 +213,7 @@ By the late 2000s:
 
 PC shows gradual, stable growth across the decade, indicating a less volatile but consistent segment.
 
-##### 2010–2020: Maturity, Saturation & Decline
+###### 2010–2020: Maturity, Saturation & Decline
 The final decade reflects a maturing market with overall declining sales across most platforms.
 
 Key transitions include:
@@ -227,7 +228,7 @@ Overall, this period suggests market saturation and reduced growth momentum, wit
 
 ## Conclusion and Recomendations
 
-##### Platforms
+### Platforms
 
 ##### Conclusion
 * Sony’s PlayStation ecosystem (not just PS3 alone) emerges as the most dominant platform family over time. Its strength lies in consistent generational transitions, where each new console builds on the previous one without losing user momentum. This continuity supports sustained sales across multiple regions, indicating strong global distribution and effective market penetration.
@@ -244,7 +245,7 @@ Platform developers should adopt elements of the PlayStation strategy:
 
 The underlying principle here is simple but powerful: reduce friction, and users will stay. Increase friction, and they wander.
 
-##### Platforms
+### Platforms
 
 ##### Conclusion
 Nintendo leads both in market share and average sales per game, indicating not just scale but also efficiency in converting releases into successful titles.
