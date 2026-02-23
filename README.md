@@ -73,7 +73,7 @@ Additionally, 271 records (1.6%) contained missing year values. These were exclu
 ### Key Insights
 
 #### Top 10 Genres from 2009-2020 
-![Top10Genre]()
+![Top10Genre](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/c7f65e43f77b96ab3a5d3fb08542b1f66d066dd4/images/top10genre.png)
 
 Action is the leading genre, accounting for the largest share of sales over the observed period.
 However the sales trend exhibited by Action reveals a clear lifecyle pattern. 
