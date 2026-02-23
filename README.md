@@ -134,6 +134,8 @@ North America and Europe exhibit high platform diversity, while Japan shows plat
 
 ### Platform Lifecycle Analysis by Decade
 
+![PlatformLifecyclewe1980-2020](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/869d222c7b861aab838593b96237d76273e6ff7b/images/PlatformLifecycle.png)
+
 ##### 1980–1989: Market Emergence & Early Dominance
 The early 1980s show a highly concentrated market, with the Atari 2600 dominating from 1980–1982 as the only consistently recorded platform in the dataset.
 A major shift occurs in 1983 with the entry of the NES, which rapidly scales from 10.96M to 50.08M in its second year. From 1983–1988, NES maintains clear dominance, signaling a transition toward more advanced console technology and stronger market adoption.
