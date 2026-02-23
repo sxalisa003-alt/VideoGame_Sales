@@ -31,7 +31,7 @@ Additionally, sales values were standardized by replacing "." with "," to ensure
 
 ##### Handling Missing Data:
  Rows with extensive missing values (9 out of 11 fields, including Platform and Global Sales) were removed (26 records) to maintain data integrity.
-Additionally, 271 records (~1.6%) contained missing year values. These were excluded from time-series analysis but retained where year was not required.
+Additionally, 271 records (1.6%) contained missing year values. These were excluded from time-series analysis but retained where year was not required.
 
 ##### Data Quality Considerations:
   Some inconsistencies and anomalies were present in the dataset, which may affect absolute accuracy but do not significantly impact overall trends and patterns.
@@ -73,6 +73,7 @@ Additionally, 271 records (~1.6%) contained missing year values. These were excl
 ### Key Insights
 
 #### Top 10 Genres from 2009-2020 
+![Top10Genre]()
 
 Action is the leading genre, accounting for the largest share of sales over the observed period.
 However the sales trend exhibited by Action reveals a clear lifecyle pattern. 
