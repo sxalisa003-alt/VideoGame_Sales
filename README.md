@@ -1,5 +1,7 @@
 # Video Game Sales Analysis Dashboard - Excel BI Project
 
+![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/220e6534b4fbfcd634957f0f815ca006057e3908/images/Dashboard.png)
+
 ### Overview
 
 This project explores global and regional video game sales trends using Microsoft Excel as a BI tool. The goal of this project is to transform raw sales data into a clean, structured, interactive dashboard that reveals insights on genre popularity, platform market performance, publisher influence, regional market behaviour.
@@ -47,12 +49,6 @@ Additionally, 271 records (1.6%) contained missing year values. These were exclu
 ##### Dataset Structure
 
 ![VideoGamesSales_DatasetDescription](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/ae8a09a19efd586a918f8797f63b1cb9320ce802/images/DatasetDescription.png)
-
-
-##### Dashboard
-
-
-![VideoGameSales Dashboard](https://github.com/sxalisa003-alt/VideoGame_Sales/blob/220e6534b4fbfcd634957f0f815ca006057e3908/images/Dashboard.png)
 
 
 ## Key Insights
