@@ -44,7 +44,7 @@ Additionally, 271 records (1.6%) contained missing year values. These were exclu
 ##### Precision Handling
   Extremely small percentage values (e.g., in average sales per game) were rounded to improve readability in visualizations without affecting overall insights.
    
-## Dashboard and Dataset
+## Dataset
 
 ##### Dataset Structure
 
