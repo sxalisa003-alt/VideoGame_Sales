@@ -10,7 +10,7 @@ The analysis focuses on trends across multiple years, highlighting how sales pat
 ### Project Objectives 
 
 The dashboard is designed to answer the following analytical questions:
-1. What were the top 5 performing Genres and Platforms between the years 2009 and 2020?
+1. What were the Top 5 performing Genres and Top  10 Platforms between the years 2009 and 2020?
 2. How did gaming platforms perform overtime and across regions?
 3. What impact do publishers have on overall sales perfomance?
 4. How do regional sales pattern differ by genre and platform?
