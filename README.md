@@ -69,5 +69,6 @@ This dashboard tracks platform lifecycles, regional genre popularity, and publis
 * **Filtering Noise (Aggregation Decision):** The raw dataset contains thousands of low-selling or independent publishers. To keep the dashboard clean and actionable for executive decision-making, the publisher metrics are focused strictly on the **Top 10 Publishers**. This cuts out the background noise while still capturing the vast majority of true market activity.
 * **Handling Missing Data & Precision:** Rows with extensive missing fields (such as missing Platform and Global Sales) were removed (26 records) to maintain data integrity. Records with missing year data (271 records) were excluded from time-series charts but kept for overall preference totals. Small percentage numbers were rounded for visual clarity.
 * **The 2017–2020 Sales Drop:** The dashboard charts show a sharp drop-off in sales from 2017 to 2020. This is a **data collection constraint** (incomplete historical records for those specific years in the raw dataset) rather than an actual macroeconomic market crash. Our expansion strategy should ignore this drop-off and assume steady real-world market sizes.
+  
 
 
