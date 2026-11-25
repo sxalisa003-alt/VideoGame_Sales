@@ -1,5 +1,6 @@
 # Video Game Sales Performance Dashboard (1980–2020)
 
+
 ##  Project Overview
 This project transforms raw, historical gaming sales data into an interactive Excel BI dashboard to solve a high-stakes retail expansion problem. 
 
@@ -12,8 +13,12 @@ This dashboard tracks platform lifecycles, regional genre popularity, and publis
 
 ---
 
-##  Dashboard Preview
-<img width="851" height="537" alt="Dashboard" src="https://github.com/user-attachments/assets/95348fa5-781b-4206-b0dd-104932cb29e3" />
+## Interactive Dashboard Preview
+
+
+https://github.com/user-attachments/assets/dd0f84a1-5c72-4917-acb8-f80d97dfba13
+
+
 
 ---
 
