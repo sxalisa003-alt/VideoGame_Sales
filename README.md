@@ -12,11 +12,8 @@ This dashboard tracks platform lifecycles, regional genre popularity, and publis
 
 ---
 
-##  Interactive Dashboard Preview
-*You can view the full static layout in the repository named `Screenshot 2026-06-19 212652.png`.*
-
-![Interactive Dashboard Demo](https://via.placeholder.com/800x450.png?text=Tip:+Replace+this+placeholder+with+a+link+to+your+dashboard+GIF+or+Video!) 
-*(Check out the synchronized slicers on the left panel of `Screenshot 2026-06-19 212652.png` to filter the data instantly by Region, Genre, and Publisher).*
+##  Dashboard Preview
+<img width="851" height="537" alt="Dashboard" src="https://github.com/user-attachments/assets/95348fa5-781b-4206-b0dd-104932cb29e3" />
 
 ---
 
