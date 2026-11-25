@@ -1,5 +1,5 @@
 # Video Game Sales Performance Dashboard (1980–2020)
-
+https://github.com/sxalisa003-alt/VideoGame_Sales/blob/e6dc5c5338314773018eae4e7ad79d5edc876130/images/Dashboard.png
 
 ##  Project Overview
 This project transforms raw, historical gaming sales data into an interactive Excel BI dashboard to solve a high-stakes retail expansion problem. 
